@@ -1,7 +1,7 @@
 name: color_type
 description: Package with a choice of color variations created by make it.
 version: 0.0.1
-repository:
+repository: https://github.com/make-it-1/mk-package-ColorType
 
 environment:
   sdk: '>=3.1.2 <4.0.0'
